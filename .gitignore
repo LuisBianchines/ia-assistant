@@ -1,0 +1,91 @@
+# General
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.#*
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.npm/
+.pnpm-store/
+.yarn/cache/
+.yarn/install-state.gz
+.node_repl_history
+
+# Build outputs
+dist/
+build/
+out/
+coverage/
+.nyc_output/
+.cache/
+.parcel-cache/
+.vite/
+.turbo/
+.next/
+.nuxt/
+storybook-static/
+
+# TypeScript / tooling caches
+*.tsbuildinfo
+.eslintcache
+.stylelintcache
+.prettier-cache
+.ts-node/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+# keep templates for sharing
+!.env.example
+!.env.*.example
+
+# Editors / IDEs
+.idea/
+.fleet/
+.history/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# OS metadata
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Desktop.ini
+
+# Misc tools
+.vercel/
+.netlify/
+.serverless/
+.firebase/
+.terraform/
+terraform.tfstate*
+
+# Archives
+*.zip
+*.tar
+*.tgz
+*.gz
+*.rar
+
+# Logs and PIDs
+logs/
+*.pid
+*.seed
+*.pid.lock
+

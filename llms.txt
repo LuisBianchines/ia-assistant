@@ -1,0 +1,57 @@
+
+# Lapidatto Consulting – Tecnologia e Estratégia Digital
+
+Descubra as soluções personalizadas em desenvolvimento de software e marketing digital da Lapidatto Consulting, empresa com mais de 10 anos de experiência em tecnologia e estratégia de negócios.
+
+## Quem Somos
+
+A Lapidatto Consulting é formada por profissionais experientes em tecnologia e marketing digital. Trabalhamos com metodologias ágeis e tecnologias modernas para entregar projetos personalizados, combinando expertise técnica e visão estratégica. Nosso diferencial é integrar desenvolvimento de software com estratégias de marketing digital, criando ecossistemas digitais completos que impulsionam o crescimento sustentável dos parceiros.
+
+## Serviços
+
+Oferecemos soluções completas e integradas para transformar o seu negócio:
+
+### Desenvolvimento de Software
+Soluções sob medida para web, mobile e automações que impulsionam seu negócio.
+- **Aplicações Web** – criação de sistemas web personalizados.
+- **Apps Mobile** – desenvolvimento de aplicativos móveis.
+- **Automação** – automatização de processos empresariais.
+- **APIs** – desenvolvimento e integração de APIs.
+
+### Marketing Digital
+Estratégias digitais completas para aumentar sua presença online e gerar resultados.
+- **Gestão de Tráfego** – campanhas de tráfego pago.
+- **Branding** – posicionamento e fortalecimento de marca.
+- **SEO** – otimização para motores de busca.
+- **Social Media** – gestão de redes sociais.
+
+### Chatbot no WhatsApp
+Atendimentos automáticos e inteligentes que funcionam 24h por dia, otimizando o relacionamento com seus clientes.
+- Atendimento 24/7, sem perder oportunidades.
+- Respostas rápidas para agilizar o contato.
+- Automatização de processos como agendamentos e captação de leads.
+- Integrações com CRM, planilhas, e‑mail e outros sistemas.
+
+### Consultoria Estratégica
+Orientação especializada em tecnologia e marketing para decisões mais assertivas.
+- Análise de Mercado.
+- Planejamento.
+- Otimização.
+- Mentoria.
+
+## Portfólio
+
+Alguns dos projetos desenvolvidos com excelência e dedicação:
+
+- **E‑commerce Platform** – plataforma completa de vendas online com integração de pagamentos e gestão de estoque. Tecnologias: React, Node.js, MongoDB.
+- **App Mobile Fitness** – aplicativo de treinos personalizados com acompanhamento de progresso e nutrição. Tecnologias: React Native, Firebase, Redux.
+- **WhatsApp Chatbot** – automação de conversas via WhatsApp utilizando n8n, integração com WhatsApp API e sistemas de automação.
+- **Campanha Digital** – estratégia de marketing digital com aumento de 300 % nas conversões, utilizando Google Ads, Facebook Ads e Analytics.
+
+## Contato
+
+Vamos conversar sobre como podemos ajudar seu negócio a crescer.
+
+- **E‑mail**: [contato.lapidattoconsulting@gmail.com](mailto:contato.lapidattoconsulting@gmail.com)  
+- **WhatsApp**: [+55 (11) 96841‑6680](https://wa.me/5511968416680)  
+- **Localização**: Jundiaí, SP, Brasil
